@@ -1,0 +1,16 @@
+{
+  "exercises": [
+    {
+      "id": 1,
+      "title": "Pushup",
+      "details": "Push-ups are an exercise in which a person, keeping a prone position, with the hands palms down under the shoulders, the balls of the feet on the ground, and the back straight, pushes the body up and lets it down by an alternate straightening and bending of the arms.",
+      "complete": false
+    },
+    {
+      "title": "Dips-Triceps",
+      "details": "Dips are a bodyweight exercise that develops the triceps and other upper-body muscles. The exercise begins when you hold on to parallel bars with your arms straight",
+      "complete": true,
+      "id": 5363
+    }
+  ]
+}
